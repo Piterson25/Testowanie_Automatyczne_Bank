@@ -1,0 +1,8 @@
+[run]
+omit =
+    app/tests/
+    app/api.py
+    app/SMTPConnection.py
+    */site-packages/*
+    .venv/*
+    */usr/*
